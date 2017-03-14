@@ -1,5 +1,8 @@
 _repo: The-Cardinal-s-Snuff-Box_5610
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harland, Henry
@@ -12,6 +15,8 @@ creator:
 description: A charming and witty romance set in turn-of-the-century Italy, Snuff-box
   tells the story of Peter Marchdale, an English novelist who takes a small villa
   in the Lombard countryside for the purposes of getting some serious writing done.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5610#The-Cardinal-s-Snuff-Box
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
